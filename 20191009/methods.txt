@@ -1,0 +1,5 @@
+1. rid of 'hair color' 'height' 'profession'(so many cases) 'wears glasses'.
+2. every N/A to 'unknown', every 0 value in categories should be 'unknown'.
+3. plot and check the 'Size of City', data should be split into 2 parts.
+4. binary encode every categories left including country (150-200 maybe)
+5. the median of the 'Age' is 35, fill it into N/A
